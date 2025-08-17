@@ -1,7 +1,6 @@
 ## Netflix Business Problems – SQL Queries
 
 This repository contains 15 business problems based on the Netflix Movies and TV Shows dataset.  
-
 The queries are written in SQL (PostgreSQL) and focus on data analysis of Netflix’s catalog.
 
 ## Dataset
