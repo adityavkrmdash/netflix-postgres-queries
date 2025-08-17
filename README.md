@@ -1,6 +1,7 @@
 ## Netflix Business Problems – SQL Queries
 
-This repository contains 15 business problems based on the Netflix Movies and TV Shows dataset.
+This repository contains 15 business problems based on the Netflix Movies and TV Shows dataset.  
+
 The queries are written in SQL (PostgreSQL) and focus on data analysis of Netflix’s catalog.
 
 ## Dataset
@@ -27,6 +28,6 @@ Source: https://www.kaggle.com/datasets/shivamb/netflix-shows
 
 ## Repository Contents
 
-solutions.sql → Contains SQL queries for all 15 business problems. Each query is documented with comments for clarity.
-netflix_titles.csv → Dataset file (Netflix Movies and TV Shows from Kaggle) used to run and test the queries.
-README.md → Documentation with dataset details, problem statements, and instructions for usage
+solutions.sql → Contains SQL queries for all 15 business problems. Each query is documented with comments for clarity.  
+netflix_titles.csv → Dataset file (Netflix Movies and TV Shows from Kaggle) used to run and test the queries.  
+README.md → Documentation with dataset details, problem statements, and instructions for usage.  
